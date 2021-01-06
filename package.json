@@ -12,7 +12,7 @@
     "@babel/plugin-proposal-optional-chaining": "^7.6.0",
     "@babel/polyfill": "^7.6.0",
     "@babel/preset-env": "^7.6.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel": "^6.23.0",
     "babel-cli": "^6.26.0",
     "babel-loader": "^8.0.6",
